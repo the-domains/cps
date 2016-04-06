@@ -1,0 +1,28 @@
+name: cps
+favicon: null
+layout_spectrum: 0.38848234550096095
+typography_spectrum: 0.2679302617907524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.868140845792368
+  lightness: 0.5215239811223
+  saturation: 0.1523589815478772
+  rhythmicContrast: 0.901296020951122
+purpose: []
